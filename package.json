@@ -1,5 +1,6 @@
 {
   "name": "react-dnd-text-dragpreview",
+  "version": "0.0.1",
   "description": "Textual drag preview for react-dnd drag and drop",
   "main": "index.js",
   "scripts": {
